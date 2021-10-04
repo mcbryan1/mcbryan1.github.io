@@ -2,96 +2,96 @@
   {
     "id": 1,
     "name": "Celestial",
-    "date": "20th Mar 2021",
-    "amount": "$500",
+    "date": "20 Mar 2021",
+    "amount": "+$500",
     "description": "Payment Sent",
     "imgUrl": "https://images.unsplash.com/photo-1517256742927-ccff23d76be8?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDd8dG93SlpGc2twR2d8fGVufDB8fHx8&ixlib=rb-1.2.1&w=1000&q=80.jpg"
   },
   {
     "id": 2,
     "name": "Mikel",
-    "date": "25th Mar 2021",
-    "amount": "$100",
+    "date": "25 Mar 2021",
+    "amount": "+$100",
     "description": "Salary",
     "imgUrl": "https://images.unsplash.com/photo-1633002507458-d8d61e7bc5d6?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDF8dG93SlpGc2twR2d8fGVufDB8fHx8&ixlib=rb-1.2.1&w=1000&q=80.jpg"
   },
   {
     "id": 3,
     "name": "Amanda",
-    "date": "1st Apr 2021",
-    "amount": "$3500",
+    "date": "1 Apr 2021",
+    "amount": "+$3500",
     "description": "Payment Received",
     "imgUrl": "https://images.unsplash.com/photo-1613329150701-f8cecb3900e0?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDExfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80.jpg"
   },
   {
     "id": 4,
     "name": "Rita",
-    "date": "11th Apr 2021",
-    "amount": "$1500",
+    "date": "11 Apr 2021",
+    "amount": "+$1500",
     "description": "Savings",
     "imgUrl": "https://images.unsplash.com/photo-1484186139897-d5fc6b908812?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIyfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80.jpg"
   },
   {
     "id": 5,
     "name": "Solomon",
-    "date": "12th May 2021",
-    "amount": "$2000",
+    "date": "12 May 2021",
+    "amount": "+$2000",
     "description": "Payment",
     "imgUrl": "https://images.unsplash.com/photo-1606590056137-c3c4f42074d4?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDR8dG93SlpGc2twR2d8fGVufDB8fHx8&ixlib=rb-1.2.1&w=1000&q=80.jpg"
   },
   {
     "id": 6,
     "name": "Kwesi Authur",
-    "date": "15th May 2021",
-    "amount": "$1000",
+    "date": "15 May 2021",
+    "amount": "+$1000",
     "description": "Dida Day",
     "imgUrl": "https://images.unsplash.com/photo-1606459431839-90b942dc3754?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE5fHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80.jpg"
   },
   {
     "id": 7,
     "name": "Elon Musk",
-    "date": "2nd Jun 2021",
-    "amount": "$5000",
+    "date": "2 Jun 2021",
+    "amount": "+$5000",
     "description": "Dogecoin",
     "imgUrl": "https://images.unsplash.com/photo-1632653223454-ca18a3777b41?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDI1fHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80.jpg"
   },
   {
     "id": 8,
     "name": "Jeff Bezos",
-    "date": "1st Jun 2021",
-    "amount": "$7000",
+    "date": "1 Jun 2021",
+    "amount": "+$7000",
     "description": "Amazon Gift Card",
     "imgUrl": "https://images.unsplash.com/photo-1632715434689-b936361f5789?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDI4fHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80.jpg"
   },
   {
     "id": 9,
     "name": "Zendeya",
-    "date": "7th Jul 2021",
-    "amount": "$5000",
+    "date": "7 Jul 2021",
+    "amount": "+$5000",
     "description": "Birthday Present",
     "imgUrl": "https://images.unsplash.com/photo-1632428198069-e86a6d21ee9d?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDI2fHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80.jpg"
   },
   {
     "id": 10,
     "name": "Mike Will",
-    "date": "12th Jul 2021",
-    "amount": "$550",
+    "date": "12 Jul 2021",
+    "amount": "+$550",
     "description": "Car Repairs",
     "imgUrl": "https://images.unsplash.com/photo-1632974079356-7478e15a34b2?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDJ8dG93SlpGc2twR2d8fGVufDB8fHx8&ixlib=rb-1.2.1&w=1000&q=80.jpg"
   },
   {
     "id": 11,
     "name": "Promzy Okre",
-    "date": "15th Aug 2021",
-    "amount": "$30",
+    "date": "15 Aug 2021",
+    "amount": "+$30",
     "description": "Fuel",
     "imgUrl": "https://images.unsplash.com/photo-1548544149-4835e62ee5b3?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIwfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80.jpg"
   },
   {
     "id": 12,
     "name": "Queen",
-    "date": "25th Aug 2021",
-    "amount": "$8500",
+    "date": "25 Aug 2021",
+    "amount": "+$8500",
     "description": "Event",
     "imgUrl": "https://images.unsplash.com/photo-1632765854612-9b02b6ec2b15?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDI5fHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80.jpg"
   }
